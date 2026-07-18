@@ -1,0 +1,7 @@
+MIT-BIH Arrhythmia Dataset:
+https://physionet.org/content/mitdb/1.0.0/
+
+Accessed via wfdb library in MIT_arrythmia.ipynb
+
+The database provides raw electrocardiogram (ECG) waveform recordings along with expert-annotated beat labels. The waveform signals can be directly visualised via the PhysioNet platform.
+Visualize waveforms link - https://physionet.org/lightwave/?db=mitdb/1.0.0
